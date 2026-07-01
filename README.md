@@ -164,23 +164,3 @@ python database_setup.py
 streamlit run app/dashboard.py
 ```
 
-The data generator prints record counts and a season summary. The database loader prints the number of rows loaded into each table.
-
-## Example resume bullet
-
-> Built a Python, Pandas, SQLite, Streamlit, and Plotly sports analytics product integrating 6 synthetic ticketing and CRM datasets; developed SQL analyses and interactive KPIs for revenue pacing, inventory, attendance, campaign conversion, segmentation, repeat purchase, and renewal risk.
-
-## Suggested screenshots
-
-Add updated screenshots after meaningful UI changes:
-
-- `screenshots/executive-overview.png` — headline KPIs, revenue trend, product mix, and insights.
-- `screenshots/ticket-sales.png` — ticket-type revenue and matchday inventory.
-- `screenshots/campaign-performance.png` — channel conversion and campaign revenue.
-- `screenshots/retention-renewals.png` — renewal propensity and risk worklist.
-
-For a polished GitHub profile, place `executive-overview.png` directly under the project introduction.
-
-## Skills demonstrated
-
-`Python` · `Pandas` · `SQLite` · `SQL joins` · `CTEs` · `Window functions` · `Data modeling` · `CRM segmentation` · `Revenue analysis` · `Retention analysis` · `Streamlit` · `Plotly` · `Data storytelling`

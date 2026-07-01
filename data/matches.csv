@@ -1,0 +1,21 @@
+match_id,season,match_date,kickoff_time,opponent,competition,venue,capacity,rivalry_match,weekend_match,base_demand_index,result
+M001,2025,2025-03-08,6:00 PM,Sacramento Republic FC,Regular Season,Summit Park,8200,0,1,1.05,W 2-0
+M002,2025,2025-03-22,6:00 PM,Colorado Springs Switchbacks,Regular Season,Summit Park,8200,1,1,1.38,D 1-1
+M003,2025,2025-04-05,6:00 PM,Las Vegas Lights FC,Regular Season,Summit Park,8200,0,1,0.96,W 3-1
+M004,2025,2025-04-19,6:00 PM,New Mexico United,Regular Season,Summit Park,8200,1,1,1.29,L 0-1
+M005,2025,2025-04-30,6:00 PM,Northern Colorado Hailstorm,U.S. Open Cup,Summit Park,8200,1,0,1.12,W 2-1
+M006,2025,2025-05-10,7:30 PM,Phoenix Rising FC,Regular Season,Summit Park,8200,0,1,1.22,D 2-2
+M007,2025,2025-05-24,7:30 PM,Oakland Roots SC,Regular Season,Summit Park,8200,0,1,1.01,W 1-0
+M008,2025,2025-06-07,7:30 PM,San Antonio FC,Regular Season,Summit Park,8200,0,1,1.08,L 1-2
+M009,2025,2025-06-21,7:30 PM,Orange County SC,Regular Season,Summit Park,8200,0,1,0.94,W 2-1
+M010,2025,2025-07-04,7:30 PM,Colorado Springs Switchbacks,Regular Season,Summit Park,8200,1,0,1.55,W 3-0
+M011,2025,2025-07-12,7:30 PM,Monterey Bay FC,Regular Season,Summit Park,8200,0,1,0.91,D 0-0
+M012,2025,2025-07-26,7:30 PM,Louisville City FC,Regular Season,Summit Park,8200,0,1,1.24,L 1-3
+M013,2025,2025-08-06,7:30 PM,Real Salt Lake,Club Friendly,Summit Park,8200,0,0,1.34,D 2-2
+M014,2025,2025-08-16,7:30 PM,FC Tulsa,Regular Season,Summit Park,8200,0,1,0.89,W 2-0
+M015,2025,2025-08-30,7:30 PM,El Paso Locomotive FC,Regular Season,Summit Park,8200,0,1,0.98,W 1-0
+M016,2025,2025-09-13,7:30 PM,New Mexico United,Regular Season,Summit Park,8200,1,1,1.31,L 0-2
+M017,2025,2025-09-24,7:30 PM,Memphis 901 FC,Regular Season,Summit Park,8200,0,0,0.87,W 3-2
+M018,2025,2025-10-04,7:30 PM,Tampa Bay Rowdies,Regular Season,Summit Park,8200,0,1,1.1,D 1-1
+M019,2025,2025-10-18,7:30 PM,Detroit City FC,Regular Season,Summit Park,8200,0,1,1.18,W 2-1
+M020,2025,2025-10-25,7:30 PM,Indy Eleven,Playoffs,Summit Park,8200,0,1,1.43,W 1-0

@@ -1,0 +1,19 @@
+campaign_id,campaign_name,channel,start_date,end_date,target_segment,audience_size,budget,objective
+CMP001,Season Ticket Early Bird,Email,2024-11-18,2025-01-31,Season Ticket Member,557,18000,Renewal
+CMP002,"New Year, New Summit",Social,2025-01-06,2025-01-26,All Fans,2304,12500,Acquisition
+CMP003,Home Opener Countdown,Email,2025-02-10,2025-03-08,All Fans,2304,9800,Ticket Sales
+CMP004,Front Range Derby Presale,SMS,2025-03-01,2025-03-20,Multi-Match Buyer,604,6200,Ticket Sales
+CMP005,Family Four-Pack,Email,2025-03-24,2025-04-19,Single-Match Buyer,712,5400,Ticket Sales
+CMP006,Open Cup Push,Social,2025-04-20,2025-04-30,All Fans,2304,7400,Awareness
+CMP007,Mile High May,SMS,2025-05-01,2025-05-24,Lapsed Fan,382,4900,Reactivation
+CMP008,Summer Soccer Series,Email,2025-05-27,2025-06-21,Multi-Match Buyer,604,7600,Ticket Sales
+CMP009,Independence Day Derby,Social,2025-06-12,2025-07-04,All Fans,2304,14200,Ticket Sales
+CMP010,Derby Last Chance,SMS,2025-06-29,2025-07-04,All Fans,2304,6800,Ticket Sales
+CMP011,Group Night Out,Email,2025-07-07,2025-07-26,Group Organizer,342,5100,Group Sales
+CMP012,RSL Friendly Spotlight,Social,2025-07-18,2025-08-06,Single-Match Buyer,712,10600,Ticket Sales
+CMP013,Premium Experience,Email,2025-08-01,2025-08-30,Premium Client,216,7200,Upsell
+CMP014,September Rivalry,SMS,2025-08-25,2025-09-13,Multi-Match Buyer,604,5900,Ticket Sales
+CMP015,Lapsed Fan Win-Back,Email,2025-09-01,2025-09-24,Lapsed Fan,382,5700,Reactivation
+CMP016,Final Regular Season Push,Social,2025-09-22,2025-10-18,All Fans,2304,11800,Ticket Sales
+CMP017,Playoff Priority Access,Email,2025-10-05,2025-10-24,Season Ticket Member,557,8900,Retention
+CMP018,2026 Renewal Launch,SMS,2025-10-20,2025-11-14,Season Ticket Member,557,6500,Renewal
